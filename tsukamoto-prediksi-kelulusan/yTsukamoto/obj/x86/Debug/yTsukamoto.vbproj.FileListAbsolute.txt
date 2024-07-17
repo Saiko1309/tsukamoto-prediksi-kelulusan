@@ -1,0 +1,9 @@
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\bin\Debug\yTsukamoto.exe
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\bin\Debug\yTsukamoto.pdb
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\bin\Debug\yTsukamoto.xml
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\obj\x86\Debug\yTsukamoto.FormUtama.resources
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\obj\x86\Debug\yTsukamoto.Resources.resources
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\obj\x86\Debug\yTsukamoto.vbproj.GenerateResource.Cache
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\obj\x86\Debug\yTsukamoto.exe
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\obj\x86\Debug\yTsukamoto.xml
+E:\Kuliah\Kerja Praktek\yTsukamoto\yTsukamoto\obj\x86\Debug\yTsukamoto.pdb
